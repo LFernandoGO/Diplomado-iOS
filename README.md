@@ -3,7 +3,7 @@
 Here goes my notes and exercises for the 'Diplomado de Aplicaciones Móvlies iOS'
 
 ## First Module
-- MacOS - Cool OS
+- MacOS - A cool OS and we learned some cool shortcuts
 - Constants
 - Variables
 - Numbers
